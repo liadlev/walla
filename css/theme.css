@@ -1,0 +1,71 @@
+input {
+  border: 0;
+  outline: 0;
+}
+
+.scrollBar{
+    overflow-y: scroll;
+}
+
+p{
+    width: 20%;
+    text-align: center;
+}
+
+.underlinePurple{
+      border-bottom: 2px solid purple; 
+}
+
+tr{
+   text-align: center; 
+}
+
+.underline {
+    padding-bottom: 2px;
+    border-bottom: grey 2px solid;
+}
+
+button{
+    background-color: purple;
+    border: 0;
+    color: white;
+	font-weight: bold;
+	padding: 3px 24px;
+}
+
+.nav-tabs a {
+  color: black;
+  font-size: 20px;
+}
+
+
+.nav-tabs a.active {
+    border-bottom: 2px solid purple;
+}
+
+.bg-custom {
+  background-color: purple;
+  font-weight: bold;
+    font-size: 20px;
+  
+}
+
+td {
+    padding: 20px 20px 30px 5px;
+}
+
+table{
+    color:grey;
+}
+
+.nav-tabs > li{
+  margin-left: 15px;
+}
+
+.bg-primary{
+    background-color: purple;
+}
+
+body {
+	  font-family: Arial;
+}
